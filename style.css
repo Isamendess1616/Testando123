@@ -18,12 +18,12 @@ p {
 .caixa-acao {
     width: 100%;
     max-width: 400px;
-    margin: 20px auuto;
+    margin: 20px;
     padding: 10px;
     background-color: #c3d48b
     border-raius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0,1);
-    text-align: center;
+    text-align: left;
 }
 
 .botao-acao {
@@ -47,13 +47,13 @@ p {
     font-size: 14px
     text-decoration: none;
     color: #fff;
-    background-color: #28a745;
+    background-color: #556b2f;
     border-radius: 5px;
     transition: background-color 0,3s;
 }
 
 .link-acao:hover {
-    background-color: #218838;
+    background-color: #556b2f;
 }
 
 .caixa-texto {
