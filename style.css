@@ -22,3 +22,13 @@ p {
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
+
+footer {
+    background: #6B8E23;
+    color: green;
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+    margin-top: 20px;
+}
+    
+    
