@@ -1,0 +1,15 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 36px;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+}
