@@ -44,3 +44,56 @@ header {
 .content {
     padding: 20px;
     font-size: 18px;
+
+.caixa-acao {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auuto;
+    padding: 10px;
+    background-color: #c3d48b
+    border-raius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0,1);
+    text-align: center;
+}
+
+.botao-acao {
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #c3d48b;
+    border: none;
+    border-radius: 5x
+    cursor: pointer;
+    transition: background-color 0,3s;
+}
+
+.botao-acao:hover {
+    background-color: #556B2F;
+}
+
+.link-acao {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 14px
+    text-decoration: none;
+    color: #fff;
+    background-color: #28a745;
+    border-radius: 5px;
+    transition: background-color 0,3s;
+}
+
+.link-acao:hover {
+    background-color: #218838;
+}
+
+.caixa-texto {
+    background-color:#f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.caixa-texto p {
+  margin: 0 0 10px;
+  font-size: 16px;
+  color: #333;
+}
