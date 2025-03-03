@@ -1,17 +1,18 @@
 body {
     font-family: Roboto, sans-serif;
     background-color: #F5FFFA;
-    text-align: left;
 }
 
 h1 {
     color: #556b2f;
     font-size: 28px;
+    text-align: left;
 }
 
 p {
     color: #333;
     font-size: 14px;
+    text-align: left;
 }
 
 .container {
